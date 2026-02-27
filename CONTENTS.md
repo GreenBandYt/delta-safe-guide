@@ -16,3 +16,9 @@
 - [**`original/input_code.txt`**](code-examples/ventilation-unit/original/input_code.txt) — исходная «кривая» версия, с которой начинаем разбор (открывается сам код)
 - [`step-by-step/`](code-examples/ventilation-unit/step-by-step/) — промежуточные версии после каждой главы
 - [`final/`](code-examples/ventilation-unit/final/) — идеальный код к концу методички
+
+## 📋 Приложения
+- [Приложение А: «Таблица настроек DTB4848LR»](diagnostics/dtb48-settings.md) — полная таблица параметров.
+- Приложение Б: «Шаблоны документов» *(в разработке)*
+- Приложение В: «Словарь терминов» *(в разработке)*
+- ...
