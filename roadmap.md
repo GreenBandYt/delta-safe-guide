@@ -7,6 +7,7 @@
 - [x] Создать структуру папок (chapters, code-examples, diagnostics)
 - [x] Загрузить исходный код вентустановки (`code-examples/ventilation-unit/original/input_code.txt`)
 - [x] Создать файл с настройками терморегулятора (`diagnostics/dtb48-settings.md`)
+- [x] Создать введение (`chapters/00-introduction.md`).
 - [x] Написать черновик Главы 0.1 (впоследствии доработан до полной версии)
 
 ## Этап 2: Часть 0 — Переключение мышления (Недели 3-4)
